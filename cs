@@ -548,4 +548,4 @@ int main() {
     }
 
     free(intersect_points);
-    r
+    }
